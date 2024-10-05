@@ -32,12 +32,11 @@ This data will likely be seen on the aggregate, instead of individual crime repo
 https://www.census.gov/data/developers/data-sets/acs-1year.html
 I'll be pulling this data using the Census API to get the tables for the desired social and economic characteristics over a five year period.
 The data comes from the ACS 1 year estimates.  These are the tables I am interested in:
-    Selected Economic Characteristics
+    - Selected Economic Characteristics:
     About 150 rows and 2 columns per year, however the data is grouped and will need to be ungrouped, possibly increasing the columns and decreasing the rows.
     Example 2023 data: https://data.census.gov/table/ACSDP1Y2022.DP03?q=dp Chicago city, Cook County, Illinois&y=2022&moe=false
     Characteristics include employment, commute to work, poverty, health insurance coverage, and income.
-
-    Selected Social characteristics
+    - Selected Social characteristics:
     About 170 Rows and 2 columns per year, however the data is grouped and will need to be ungrouped, possibly increasing the columns and decreasing the rows.
     Example 2023 data: https://data.census.gov/table/ACSDP1Y2023.DP02?q=dp Chicago city, Cook County, Illinois&moe=false&tp=false
     Characteristics include households, education, school enrollment, disability, citizenship, and internet use.

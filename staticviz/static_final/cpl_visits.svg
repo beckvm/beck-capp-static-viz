@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="695"
+   height="459"
+   viewBox="0 0 695 459"
+   id="svg138"
+   sodipodi:docname="cpl_visits.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview138"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.281399"
+     inkscape:cx="326.59615"
+     inkscape:cy="203.29342"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg138" />
+  <rect
+     width="695"
+     height="459"
+     fill="#fff"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(89,22)"
+     id="g122">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g121">
+      <g
+         transform="translate(0,0)"
+         id="g120">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0.5,0.5h500v400h-500Z"
+           stroke="#ddd"
+           id="path1" />
+        <g
+           id="g119">
+          <g
+             class="mark-rect role-mark marks"
+             role="graphics-object"
+             aria-roledescription="rect mark container"
+             id="g61">
+            <path
+               aria-label="Year: 2019; Month: APRIL; # Visitors: 714235"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,100h100v33.333333333333336h-100Z"
+               fill="rgb(2, 108, 97)"
+               id="path2" />
+            <path
+               aria-label="Year: 2019; Month: AUGUST; # Visitors: 730269"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,233.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(1, 105, 92)"
+               id="path3" />
+            <path
+               aria-label="Year: 2019; Month: DECEMBER; # Visitors: 590895"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,366.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(13, 129, 141)"
+               id="path4" />
+            <path
+               aria-label="Year: 2019; Month: FEBRUARY; # Visitors: 665118"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,33.333333333333336h100v33.333333333333336h-100Z"
+               fill="rgb(4, 118, 113)"
+               id="path5" />
+            <path
+               aria-label="Year: 2019; Month: JANUARY; # Visitors: 584296"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,0h100v33.333333333333336h-100Z"
+               fill="rgb(15, 130, 143)"
+               id="path6" />
+            <path
+               aria-label="Year: 2019; Month: JULY; # Visitors: 758515"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,200h100v33.333333333333336h-100Z"
+               fill="rgb(1, 99, 83)"
+               id="path7" />
+            <path
+               aria-label="Year: 2019; Month: JUNE; # Visitors: 667311"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,166.66666666666669h100v33.333333333333336h-100Z"
+               fill="rgb(3, 117, 113)"
+               id="path8" />
+            <path
+               aria-label="Year: 2019; Month: MARCH; # Visitors: 719159"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,66.66666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(2, 107, 95)"
+               id="path9" />
+            <path
+               aria-label="Year: 2019; Month: MAY; # Visitors: 662313"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,133.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(4, 118, 115)"
+               id="path10" />
+            <path
+               aria-label="Year: 2019; Month: NOVEMBER; # Visitors: 598907"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,333.33333333333337h100v33.333333333333336h-100Z"
+               fill="rgb(11, 128, 138)"
+               id="path11" />
+            <path
+               aria-label="Year: 2019; Month: OCTOBER; # Visitors: 711498"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,300h100v33.333333333333336h-100Z"
+               fill="rgb(2, 109, 98)"
+               id="path12" />
+            <path
+               aria-label="Year: 2019; Month: SEPTEMBER; # Visitors: 637064"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M0,266.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(6, 122, 124)"
+               id="path13" />
+            <path
+               aria-label="Year: 2020; Month: APRIL; # Visitors: 0"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,100h100v33.333333333333336h-100Z"
+               fill="rgb(219, 216, 234)"
+               id="path14" />
+            <path
+               aria-label="Year: 2020; Month: AUGUST; # Visitors: 268506"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,233.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(129, 177, 212)"
+               id="path15" />
+            <path
+               aria-label="Year: 2020; Month: DECEMBER; # Visitors: 219208"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,366.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(150, 184, 217)"
+               id="path16" />
+            <path
+               aria-label="Year: 2020; Month: FEBRUARY; # Visitors: 588355"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,33.333333333333336h100v33.333333333333336h-100Z"
+               fill="rgb(14, 129, 142)"
+               id="path17" />
+            <path
+               aria-label="Year: 2020; Month: JANUARY; # Visitors: 600846"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,0h100v33.333333333333336h-100Z"
+               fill="rgb(10, 128, 137)"
+               id="path18" />
+            <path
+               aria-label="Year: 2020; Month: JULY; # Visitors: 259090"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,200h100v33.333333333333336h-100Z"
+               fill="rgb(133, 178, 213)"
+               id="path19" />
+            <path
+               aria-label="Year: 2020; Month: JUNE; # Visitors: 176680"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,166.66666666666669h100v33.333333333333336h-100Z"
+               fill="rgb(166, 191, 220)"
+               id="path20" />
+            <path
+               aria-label="Year: 2020; Month: MARCH; # Visitors: 416248"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,66.66666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(70, 153, 194)"
+               id="path21" />
+            <path
+               aria-label="Year: 2020; Month: MAY; # Visitors: 0"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,133.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(219, 216, 234)"
+               id="path22" />
+            <path
+               aria-label="Year: 2020; Month: NOVEMBER; # Visitors: 225861"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,333.33333333333337h100v33.333333333333336h-100Z"
+               fill="rgb(148, 183, 216)"
+               id="path23" />
+            <path
+               aria-label="Year: 2020; Month: OCTOBER; # Visitors: 286799"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,300h100v33.333333333333336h-100Z"
+               fill="rgb(121, 174, 211)"
+               id="path24" />
+            <path
+               aria-label="Year: 2020; Month: SEPTEMBER; # Visitors: 275187"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M100,266.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(126, 176, 212)"
+               id="path25" />
+            <path
+               aria-label="Year: 2021; Month: APRIL; # Visitors: 273975"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,100h100v33.333333333333336h-100Z"
+               fill="rgb(127, 176, 212)"
+               id="path26" />
+            <path
+               aria-label="Year: 2021; Month: AUGUST; # Visitors: 329263"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,233.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(104, 168, 206)"
+               id="path27" />
+            <path
+               aria-label="Year: 2021; Month: DECEMBER; # Visitors: 318884"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,366.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(108, 169, 207)"
+               id="path28" />
+            <path
+               aria-label="Year: 2021; Month: FEBRUARY; # Visitors: 215527"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,33.333333333333336h100v33.333333333333336h-100Z"
+               fill="rgb(152, 185, 217)"
+               id="path29" />
+            <path
+               aria-label="Year: 2021; Month: JANUARY; # Visitors: 231136"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,0h100v33.333333333333336h-100Z"
+               fill="rgb(145, 182, 216)"
+               id="path30" />
+            <path
+               aria-label="Year: 2021; Month: JULY; # Visitors: 342227"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,200h100v33.333333333333336h-100Z"
+               fill="rgb(99, 165, 204)"
+               id="path31" />
+            <path
+               aria-label="Year: 2021; Month: JUNE; # Visitors: 300678"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,166.66666666666669h100v33.333333333333336h-100Z"
+               fill="rgb(115, 172, 209)"
+               id="path32" />
+            <path
+               aria-label="Year: 2021; Month: MARCH; # Visitors: 276087"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,66.66666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(126, 176, 212)"
+               id="path33" />
+            <path
+               aria-label="Year: 2021; Month: MAY; # Visitors: 260136"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,133.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(133, 178, 213)"
+               id="path34" />
+            <path
+               aria-label="Year: 2021; Month: NOVEMBER; # Visitors: 334570"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,333.33333333333337h100v33.333333333333336h-100Z"
+               fill="rgb(102, 167, 205)"
+               id="path35" />
+            <path
+               aria-label="Year: 2021; Month: OCTOBER; # Visitors: 356053"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,300h100v33.333333333333336h-100Z"
+               fill="rgb(93, 163, 203)"
+               id="path36" />
+            <path
+               aria-label="Year: 2021; Month: SEPTEMBER; # Visitors: 336216"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M200,266.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(101, 166, 205)"
+               id="path37" />
+            <path
+               aria-label="Year: 2022; Month: APRIL; # Visitors: 385300"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,100h100v33.333333333333336h-100Z"
+               fill="rgb(82, 158, 199)"
+               id="path38" />
+            <path
+               aria-label="Year: 2022; Month: AUGUST; # Visitors: 432735"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,233.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(64, 150, 191)"
+               id="path39" />
+            <path
+               aria-label="Year: 2022; Month: DECEMBER; # Visitors: 302256"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,366.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(115, 172, 209)"
+               id="path40" />
+            <path
+               aria-label="Year: 2022; Month: FEBRUARY; # Visitors: 292398"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,33.333333333333336h100v33.333333333333336h-100Z"
+               fill="rgb(119, 174, 210)"
+               id="path41" />
+            <path
+               aria-label="Year: 2022; Month: JANUARY; # Visitors: 233327"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,0h100v33.333333333333336h-100Z"
+               fill="rgb(144, 182, 215)"
+               id="path42" />
+            <path
+               aria-label="Year: 2022; Month: JULY; # Visitors: 427930"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,200h100v33.333333333333336h-100Z"
+               fill="rgb(66, 151, 192)"
+               id="path43" />
+            <path
+               aria-label="Year: 2022; Month: JUNE; # Visitors: 417065"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,166.66666666666669h100v33.333333333333336h-100Z"
+               fill="rgb(70, 153, 194)"
+               id="path44" />
+            <path
+               aria-label="Year: 2022; Month: MARCH; # Visitors: 386885"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,66.66666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(81, 158, 199)"
+               id="path45" />
+            <path
+               aria-label="Year: 2022; Month: MAY; # Visitors: 369071"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,133.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(88, 161, 201)"
+               id="path46" />
+            <path
+               aria-label="Year: 2022; Month: NOVEMBER; # Visitors: 421526"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,333.33333333333337h100v33.333333333333336h-100Z"
+               fill="rgb(68, 152, 193)"
+               id="path47" />
+            <path
+               aria-label="Year: 2022; Month: OCTOBER; # Visitors: 444952"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,300h100v33.333333333333336h-100Z"
+               fill="rgb(60, 148, 189)"
+               id="path48" />
+            <path
+               aria-label="Year: 2022; Month: SEPTEMBER; # Visitors: 396811"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M300,266.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(78, 156, 197)"
+               id="path49" />
+            <path
+               aria-label="Year: 2023; Month: APRIL; # Visitors: 434794"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,100h100v33.333333333333336h-100Z"
+               fill="rgb(63, 149, 190)"
+               id="path50" />
+            <path
+               aria-label="Year: 2023; Month: AUGUST; # Visitors: 431626"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,233.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(65, 150, 191)"
+               id="path51" />
+            <path
+               aria-label="Year: 2023; Month: DECEMBER; # Visitors: 362737"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,366.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(91, 162, 202)"
+               id="path52" />
+            <path
+               aria-label="Year: 2023; Month: FEBRUARY; # Visitors: 420409"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,33.333333333333336h100v33.333333333333336h-100Z"
+               fill="rgb(69, 152, 193)"
+               id="path53" />
+            <path
+               aria-label="Year: 2023; Month: JANUARY; # Visitors: 340262"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,0h100v33.333333333333336h-100Z"
+               fill="rgb(99, 166, 205)"
+               id="path54" />
+            <path
+               aria-label="Year: 2023; Month: JULY; # Visitors: 418275"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,200h100v33.333333333333336h-100Z"
+               fill="rgb(70, 152, 193)"
+               id="path55" />
+            <path
+               aria-label="Year: 2023; Month: JUNE; # Visitors: 414222"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,166.66666666666669h100v33.333333333333336h-100Z"
+               fill="rgb(71, 153, 194)"
+               id="path56" />
+            <path
+               aria-label="Year: 2023; Month: MARCH; # Visitors: 464592"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,66.66666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(52, 145, 184)"
+               id="path57" />
+            <path
+               aria-label="Year: 2023; Month: MAY; # Visitors: 385466"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,133.33333333333334h100v33.333333333333336h-100Z"
+               fill="rgb(82, 158, 199)"
+               id="path58" />
+            <path
+               aria-label="Year: 2023; Month: NOVEMBER; # Visitors: 382936"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,333.33333333333337h100v33.333333333333336h-100Z"
+               fill="rgb(83, 158, 199)"
+               id="path59" />
+            <path
+               aria-label="Year: 2023; Month: OCTOBER; # Visitors: 414310"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,300h100v33.333333333333336h-100Z"
+               fill="rgb(71, 153, 194)"
+               id="path60" />
+            <path
+               aria-label="Year: 2023; Month: SEPTEMBER; # Visitors: 401736"
+               role="graphics-symbol"
+               aria-roledescription="rect mark"
+               d="M400,266.6666666666667h100v33.333333333333336h-100Z"
+               fill="rgb(76, 155, 196)"
+               id="path61" />
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Gradient legend titled '# Visitors' for fill color with values from 0 to 758,515"
+             id="g74">
+            <g
+               transform="translate(518,0)"
+               id="g73">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m -1.7,0 h 73 c 2.759575,0 5,2.2404249 5,5 v 229 c 0,2.75958 -2.240425,5 -5,5 h -73 c -2.7595751,0 -5,-2.24042 -5,-5 V 5 c 0,-2.7595751 2.2404249,-5 5,-5 z"
+                 pointer-events="none"
+                 fill="#fff5db"
+                 id="path62" />
+              <g
+                 id="g72">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g70">
+                  <g
+                     transform="translate(10,29)"
+                     id="g69">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path63" />
+                    <g
+                       id="g68">
+                      <g
+                         class="mark-rect role-legend-gradient"
+                         pointer-events="none"
+                         id="g64">
+                        <path
+                           d="m -6.7,0 h 16 v 200 h -16 z"
+                           fill="url(#gradient_0)"
+                           stroke="#dddddd"
+                           stroke-width="0"
+                           opacity="1"
+                           id="path64"
+                           style="fill:url(#gradient_0)" />
+                      </g>
+                      <g
+                         class="mark-text role-legend-label"
+                         pointer-events="none"
+                         id="g67">
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="12px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text64"
+                           x="11.300005"
+                           y="197">0</text>
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="12px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text65"
+                           x="11.300005"
+                           y="151.26538">200,000</text>
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="12px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text66"
+                           x="11.300005"
+                           y="98.530762">400,000</text>
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="12px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text67"
+                           x="11.300005"
+                           y="45.796143">600,000</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path68" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g71">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="12.9954px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text70"
+                     x="0.47353387"
+                     y="20.236771"
+                     style="stroke-width:0.928246"># Visitors</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path72" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g78">
+            <g
+               transform="translate(250,-17)"
+               id="g77">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path74" />
+              <g
+                 id="g76">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'Chicago Public Library Visits 2019-2023'"
+                   pointer-events="none"
+                   id="g75">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(0,10)"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text74">Chicago Public Library Visits 2019-2023</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path76" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'Year' for a discrete scale with 5 values: 2019, 2020, 2021, 2022, 2023"
+             id="g91">
+            <g
+               transform="translate(0.5,400.5)"
+               id="g90">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path78" />
+              <g
+                 id="g89">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g82">
+                  <line
+                     transform="translate(50,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line78" />
+                  <line
+                     transform="translate(150,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line79" />
+                  <line
+                     transform="translate(250,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line80" />
+                  <line
+                     transform="translate(350,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line81" />
+                  <line
+                     transform="translate(450,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line82" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g86">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(49.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text82">2019</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(149.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text83">2020</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(249.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text84">2021</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(349.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text85">2022</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(449.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text86">2023</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g87">
+                  <line
+                     transform="translate(0,0)"
+                     x2="500"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line86" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g88">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(250,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text87">Year</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path89" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Month' for a discrete scale with 12 values: JANUARY, FEBRUARY, MARCH, APRIL, MAY, ending with DECEMBER"
+             id="g118">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g117">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path91" />
+              <g
+                 id="g116">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g102">
+                  <line
+                     transform="translate(0,16)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line91" />
+                  <line
+                     transform="translate(0,50)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line92" />
+                  <line
+                     transform="translate(0,83)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line93" />
+                  <line
+                     transform="translate(0,116)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line94" />
+                  <line
+                     transform="translate(0,150)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line95" />
+                  <line
+                     transform="translate(0,183)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line96" />
+                  <line
+                     transform="translate(0,216)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line97" />
+                  <line
+                     transform="translate(0,250)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line98" />
+                  <line
+                     transform="translate(0,283)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line99" />
+                  <line
+                     transform="translate(0,316)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line100" />
+                  <line
+                     transform="translate(0,350)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line101" />
+                  <line
+                     transform="translate(0,383)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line102" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g113">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,19.166666666666668)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text102">JANUARY</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,52.5)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text103">FEBRUARY</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,85.83333333333334)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text104">MARCH</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,119.16666666666667)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text105">APRIL</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,152.5)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text106">MAY</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,185.83333333333334)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text107">JUNE</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,219.16666666666666)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text108">JULY</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,252.5)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text109">AUGUST</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,285.83333333333337)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text110">SEPTEMBER</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,319.1666666666667)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text111">OCTOBER</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,352.50000000000006)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text112">NOVEMBER</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,385.83333333333337)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text113">DECEMBER</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g114">
+                  <line
+                     transform="translate(0,0)"
+                     x2="0"
+                     y2="400"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line113" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g115">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(-72.6796875,200) rotate(-90) translate(0,-2)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text114">Month</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path116" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path119" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs138">
+    <linearGradient
+       id="gradient_0"
+       x1="0"
+       x2="0"
+       y1="56.568542"
+       y2="0"
+       gradientTransform="matrix(0.28284271,0,0,3.5355339,-6.7,0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="rgb(219, 216, 234)"
+         id="stop122" />
+      <stop
+         offset="0.06591827452324608"
+         stop-color="rgb(206, 209, 230)"
+         id="stop123" />
+      <stop
+         offset="0.13183654904649217"
+         stop-color="rgb(192, 202, 226)"
+         id="stop124" />
+      <stop
+         offset="0.19775482356973823"
+         stop-color="rgb(177, 195, 222)"
+         id="stop125" />
+      <stop
+         offset="0.26367309809298434"
+         stop-color="rgb(158, 187, 218)"
+         id="stop126" />
+      <stop
+         offset="0.3295913726162304"
+         stop-color="rgb(137, 180, 214)"
+         id="stop127" />
+      <stop
+         offset="0.39550964713947645"
+         stop-color="rgb(115, 172, 209)"
+         id="stop128" />
+      <stop
+         offset="0.46142792166272256"
+         stop-color="rgb(96, 164, 203)"
+         id="stop129" />
+      <stop
+         offset="0.5273461961859687"
+         stop-color="rgb(76, 155, 196)"
+         id="stop130" />
+      <stop
+         offset="0.5932644707092147"
+         stop-color="rgb(58, 147, 188)"
+         id="stop131" />
+      <stop
+         offset="0.6591827452324608"
+         stop-color="rgb(39, 140, 173)"
+         id="stop132" />
+      <stop
+         offset="0.7251010197557068"
+         stop-color="rgb(23, 134, 156)"
+         id="stop133" />
+      <stop
+         offset="0.7910192942789529"
+         stop-color="rgb(11, 128, 138)"
+         id="stop134" />
+      <stop
+         offset="0.8569375688021991"
+         stop-color="rgb(5, 120, 119)"
+         id="stop135" />
+      <stop
+         offset="0.9228558433254451"
+         stop-color="rgb(2, 111, 102)"
+         id="stop136" />
+      <stop
+         offset="0.9887741178486912"
+         stop-color="rgb(1, 101, 86)"
+         id="stop137" />
+      <stop
+         offset="1"
+         stop-color="rgb(1, 99, 83)"
+         id="stop138" />
+    </linearGradient>
+  </defs>
+</svg>

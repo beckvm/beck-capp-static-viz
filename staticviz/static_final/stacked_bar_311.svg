@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="815"
+   height="664"
+   viewBox="0 0 815 664"
+   id="svg182"
+   sodipodi:docname="stacked_bar_311.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs182" />
+  <sodipodi:namedview
+     id="namedview182"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0874138"
+     inkscape:cx="416.12493"
+     inkscape:cy="337.0382"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="8"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg182" />
+  <rect
+     width="815"
+     height="664"
+     fill="#fff"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(53,27)"
+     id="g182">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g181">
+      <g
+         transform="translate(0,0)"
+         id="g180">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0.5,0.5h400v600h-400Z"
+           stroke="#ddd"
+           id="path1" />
+        <g
+           id="g179">
+          <g
+             class="mark-group role-axis"
+             aria-hidden="true"
+             id="g25">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g24">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path2" />
+              <g
+                 id="g23">
+                <g
+                   class="mark-rule role-axis-grid"
+                   pointer-events="none"
+                   id="g22">
+                  <line
+                     transform="translate(0,600)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line2" />
+                  <line
+                     transform="translate(0,570)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line3" />
+                  <line
+                     transform="translate(0,540)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line4" />
+                  <line
+                     transform="translate(0,510)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line5" />
+                  <line
+                     transform="translate(0,480)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line6" />
+                  <line
+                     transform="translate(0,450)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line7" />
+                  <line
+                     transform="translate(0,420)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line8" />
+                  <line
+                     transform="translate(0,390)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line9" />
+                  <line
+                     transform="translate(0,360)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line10" />
+                  <line
+                     transform="translate(0,330)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line11" />
+                  <line
+                     transform="translate(0,300)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line12" />
+                  <line
+                     transform="translate(0,270)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line13" />
+                  <line
+                     transform="translate(0,240)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line14" />
+                  <line
+                     transform="translate(0,210)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line15" />
+                  <line
+                     transform="translate(0,180)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line16" />
+                  <line
+                     transform="translate(0,150)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line17" />
+                  <line
+                     transform="translate(0,120)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line18" />
+                  <line
+                     transform="translate(0,90)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line19" />
+                  <line
+                     transform="translate(0,60)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line20" />
+                  <line
+                     transform="translate(0,30)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line21" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="400"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line22" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path23" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'Year' for a discrete scale with 5 values: 2019, 2020, 2021, 2022, 2023"
+             id="g38">
+            <g
+               transform="translate(0.5,600.5)"
+               id="g37">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path25" />
+              <g
+                 id="g36">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g29">
+                  <line
+                     transform="translate(40,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line25" />
+                  <line
+                     transform="translate(120,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line26" />
+                  <line
+                     transform="translate(200,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line27" />
+                  <line
+                     transform="translate(280,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line28" />
+                  <line
+                     transform="translate(360,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line29" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g33">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(39.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text29">2019</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(119.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text30">2020</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(199.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text31">2021</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(279.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text32">2022</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(359.5,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text33">2023</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g34">
+                  <line
+                     transform="translate(0,0)"
+                     x2="400"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line33" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g35">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(200,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text34">Year</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path36" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Percent of Requests' for a linear scale with values from 0% to 100%"
+             id="g83">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g82">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path38" />
+              <g
+                 id="g81">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g58">
+                  <line
+                     transform="translate(0,600)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line38" />
+                  <line
+                     transform="translate(0,570)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line39" />
+                  <line
+                     transform="translate(0,540)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line40" />
+                  <line
+                     transform="translate(0,510)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line41" />
+                  <line
+                     transform="translate(0,480)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line42" />
+                  <line
+                     transform="translate(0,450)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line43" />
+                  <line
+                     transform="translate(0,420)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line44" />
+                  <line
+                     transform="translate(0,390)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line45" />
+                  <line
+                     transform="translate(0,360)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line46" />
+                  <line
+                     transform="translate(0,330)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line47" />
+                  <line
+                     transform="translate(0,300)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line48" />
+                  <line
+                     transform="translate(0,270)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line49" />
+                  <line
+                     transform="translate(0,240)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line50" />
+                  <line
+                     transform="translate(0,210)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line51" />
+                  <line
+                     transform="translate(0,180)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line52" />
+                  <line
+                     transform="translate(0,150)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line53" />
+                  <line
+                     transform="translate(0,120)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line54" />
+                  <line
+                     transform="translate(0,90)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line55" />
+                  <line
+                     transform="translate(0,60)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line56" />
+                  <line
+                     transform="translate(0,30)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line57" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line58" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g78">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,603)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text58">0%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,573)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text59">5%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,543)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text60">10%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,513)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text61">15%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,483)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text62">20%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,453)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text63">25%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,423)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text64">30%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,393)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text65">35%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,363)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text66">40%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,333)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text67">45%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,303)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text68">50%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,273)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text69">55%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,243)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text70">60%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,213)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text71">65%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,183.00000000000003)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text72">70%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,153)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text73">75%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,122.99999999999997)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text74">80%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,93.00000000000001)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text75">85%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,62.999999999999986)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text76">90%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,33.00000000000003)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text77">95%</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text78">100%</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g79">
+                  <line
+                     transform="translate(0,600)"
+                     x2="0"
+                     y2="-600"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line78" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g80">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(-36.576171875,300) rotate(-90) translate(0,-2)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text79">Percent of Requests</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path81" />
+            </g>
+          </g>
+          <g
+             class="mark-rect role-mark marks"
+             role="graphics-object"
+             aria-roledescription="rect mark container"
+             id="g127">
+            <path
+               aria-label="Year: 2019; Percent of Requests: 2%; Department: Chicago Animal Care and Control"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,0h72v10.732819104152602h-72Z"
+               fill="#3BD4CF"
+               id="path83" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 19%; Department: Chicago Department of Aviation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,10.732819104152602h72v113.29143527770927h-72Z"
+               fill="#EA2B8B"
+               id="path84" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 0%; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,124.02425438186187h72v1.4226062404858055h-72Z"
+               fill="#F8C22C"
+               id="path85" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 17%; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,125.44686062234767h72v103.55600534072643h-72Z"
+               fill="#108D50"
+               id="path86" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 2%; Department: Department of Buildings"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,229.0028659630741h72v13.024909216154867h-72Z"
+               fill="#00058F"
+               id="path87" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 24%; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,242.02777517922897h72v143.83460756716312h-72Z"
+               fill="#C994F0"
+               id="path88" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 6%; Department: Department of Water Management"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,385.8623827463921h72v36.9636099228656h-72Z"
+               fill="#FF6F6F"
+               id="path89" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 29%; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,422.8259926692577h72v172.33027460518593h-72Z"
+               fill="#921A80"
+               id="path90" />
+            <path
+               aria-label="Year: 2019; Percent of Requests: 1%; Department: Other"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M4,595.1562672744436h72v4.843732725556379h-72Z"
+               fill="#BD591B"
+               id="path91" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 2%; Department: Chicago Animal Care and Control"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,0h72v10.081548657955564h-72Z"
+               fill="#3BD4CF"
+               id="path92" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 13%; Department: Chicago Department of Aviation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,10.081548657955564h72v76.28131043917163h-72Z"
+               fill="#EA2B8B"
+               id="path93" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 0%; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,86.3628590971272h72v0.9767559790556248h-72Z"
+               fill="#F8C22C"
+               id="path94" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 11%; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,87.33961507618282h72v67.50967026746547h-72Z"
+               fill="#108D50"
+               id="path95" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 2%; Department: Department of Buildings"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,154.8492853436483h72v10.472781734987478h-72Z"
+               fill="#00058F"
+               id="path96" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 26%; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,165.32206707863577h72v156.1978159347139h-72Z"
+               fill="#C994F0"
+               id="path97" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 3%; Department: Department of Water Management"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,321.51988301334967h72v18.498808906080455h-72Z"
+               fill="#FF6F6F"
+               id="path98" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 42%; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,340.0186919194301h72v253.10008726826743h-72Z"
+               fill="#921A80"
+               id="path99" />
+            <path
+               aria-label="Year: 2020; Percent of Requests: 1%; Department: Other"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M84,593.1187791876976h72v6.881220812302445h-72Z"
+               fill="#BD591B"
+               id="path100" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 2%; Department: Chicago Animal Care and Control"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,6.661338147750939e-14h72v10.340490634908761h-72Z"
+               fill="#3BD4CF"
+               id="path101" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 17%; Department: Chicago Department of Aviation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,10.340490634908829h72v104.00408416037763h-72Z"
+               fill="#EA2B8B"
+               id="path102" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 0%; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,114.34457479528646h72v0.9592748210310162h-72Z"
+               fill="#F8C22C"
+               id="path103" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 10%; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,115.30384961631748h72v62.05606209760333h-72Z"
+               fill="#108D50"
+               id="path104" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 2%; Department: Department of Buildings"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,177.3599117139208h72v12.963820307875267h-72Z"
+               fill="#00058F"
+               id="path105" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 28%; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,190.32373202179608h72v169.31446559100348h-72Z"
+               fill="#C994F0"
+               id="path106" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 3%; Department: Department of Water Management"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,359.63819761279956h72v20.27628208036373h-72Z"
+               fill="#FF6F6F"
+               id="path107" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 36%; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,379.9144796931633h72v215.2540547808781h-72Z"
+               fill="#921A80"
+               id="path108" />
+            <path
+               aria-label="Year: 2021; Percent of Requests: 1%; Department: Other"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M164,595.1685344740414h72v4.831465525958606h-72Z"
+               fill="#BD591B"
+               id="path109" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 2%; Department: Chicago Animal Care and Control"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,0h72v12.092307951359494h-72Z"
+               fill="#3BD4CF"
+               id="path110" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 18%; Department: Chicago Department of Aviation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,12.092307951359494h72v109.70939777565118h-72Z"
+               fill="#EA2B8B"
+               id="path111" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 0%; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,121.80170572701068h72v1.0880955521441962h-72Z"
+               fill="#F8C22C"
+               id="path112" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 12%; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,122.88980127915488h72v70.44029534503227h-72Z"
+               fill="#108D50"
+               id="path113" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 2%; Department: Department of Buildings"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,193.33009662418715h72v13.99066592952019h-72Z"
+               fill="#00058F"
+               id="path114" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 25%; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,207.32076255370734h72v151.1988078433134h-72Z"
+               fill="#C994F0"
+               id="path115" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 4%; Department: Department of Water Management"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,358.51957039702074h72v21.942755150436767h-72Z"
+               fill="#FF6F6F"
+               id="path116" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 36%; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,380.4623255474575h72v213.31892717123782h-72Z"
+               fill="#921A80"
+               id="path117" />
+            <path
+               aria-label="Year: 2022; Percent of Requests: 1%; Department: Other"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M244,593.7812527186953h72v6.2187472813046725h-72Z"
+               fill="#BD591B"
+               id="path118" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 2%; Department: Chicago Animal Care and Control"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,6.661338147750939e-14h72v12.99411617531716h-72Z"
+               fill="#3BD4CF"
+               id="path119" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 17%; Department: Chicago Department of Aviation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,12.994116175317227h72v103.97519404252209h-72Z"
+               fill="#EA2B8B"
+               id="path120" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 0%; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,116.96931021783932h72v1.2036399312944326h-72Z"
+               fill="#F8C22C"
+               id="path121" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 10%; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,118.17295014913375h72v58.608628672470815h-72Z"
+               fill="#108D50"
+               id="path122" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 3%; Department: Department of Buildings"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,176.78157882160457h72v15.749534044939736h-72Z"
+               fill="#00058F"
+               id="path123" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 25%; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,192.5311128665443h72v151.96966161682892h-72Z"
+               fill="#C994F0"
+               id="path124" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 4%; Department: Department of Water Management"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,344.5007744833732h72v26.10562772509917h-72Z"
+               fill="#FF6F6F"
+               id="path125" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 37%; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,370.6064022084724h72v222.31614102063128h-72Z"
+               fill="#921A80"
+               id="path126" />
+            <path
+               aria-label="Year: 2023; Percent of Requests: 1%; Department: Other"
+               role="graphics-symbol"
+               aria-roledescription="bar"
+               d="M324,592.9225432291037h72v7.077456770896333h-72Z"
+               fill="#BD591B"
+               id="path127" />
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'Department' for fill color with 9 values: Chicago Animal Care and Control, Chicago Department of Aviation, Chicago Department of Public Health, Chicago Department of Transportation, Department of Buildings, ending with Other"
+             id="g174">
+            <g
+               transform="translate(418,0)"
+               id="g173">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M -5.9268484,-2.1593275 H 330.21304 c 2.81946,0 5.10851,2.28904605 5.10851,5.1085089 V 196.05082 c 0,2.81946 -2.28905,5.10851 -5.10851,5.10851 H -5.9268484 c -2.8194628,0 -5.1085086,-2.28905 -5.1085086,-5.10851 V 2.9491814 c 0,-2.81946285 2.2890458,-5.1085089 5.1085086,-5.1085089 z"
+                 pointer-events="none"
+                 fill="#fff5db"
+                 id="path128"
+                 style="stroke-width:1.0217" />
+              <g
+                 id="g172">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g170">
+                  <g
+                     transform="translate(10,29)"
+                     id="g169">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path129" />
+                    <g
+                       id="g168">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g167">
+                        <g
+                           transform="translate(0,0)"
+                           id="g134">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path130" />
+                          <g
+                             id="g133">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g131">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#3bd4cf"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path131" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g132">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text131"
+                                 x="6.7999935"
+                                 y="12">Chicago Animal Care and Control</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path133" />
+                        </g>
+                        <g
+                           transform="translate(0,18)"
+                           id="g138">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path134" />
+                          <g
+                             id="g137">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g135">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#ea2b8b"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path135" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g136">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text135"
+                                 x="6.7999935"
+                                 y="12">Chicago Department of Aviation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path137" />
+                        </g>
+                        <g
+                           transform="translate(0,36)"
+                           id="g142">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path138" />
+                          <g
+                             id="g141">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g139">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#f8c22c"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path139" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g140">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text139"
+                                 x="6.7999935"
+                                 y="12">Chicago Department of Public Health</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path141" />
+                        </g>
+                        <g
+                           transform="translate(0,54)"
+                           id="g146">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path142" />
+                          <g
+                             id="g145">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g143">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#108d50"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path143" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g144">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text143"
+                                 x="6.7999935"
+                                 y="12">Chicago Department of Transportation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path145" />
+                        </g>
+                        <g
+                           transform="translate(0,72)"
+                           id="g150">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path146" />
+                          <g
+                             id="g149">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g147">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#00058f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path147" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g148">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text147"
+                                 x="6.7999935"
+                                 y="12">Department of Buildings</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path149" />
+                        </g>
+                        <g
+                           transform="translate(0,90)"
+                           id="g154">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path150" />
+                          <g
+                             id="g153">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g151">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#c994f0"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path151" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g152">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text151"
+                                 x="6.7999935"
+                                 y="12">Department of Streets and Sanitation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path153" />
+                        </g>
+                        <g
+                           transform="translate(0,108)"
+                           id="g158">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path154" />
+                          <g
+                             id="g157">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g155">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#ff6f6f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path155" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g156">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text155"
+                                 x="6.7999935"
+                                 y="12">Department of Water Management</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path157" />
+                        </g>
+                        <g
+                           transform="translate(0,126)"
+                           id="g162">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path158" />
+                          <g
+                             id="g161">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g159">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#921a80"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path159" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g160">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="11.3048px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text159"
+                                 x="6.8390279"
+                                 y="11.806016"
+                                 style="stroke-width:0.942071">Office of Emergency Management and Communications</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path161" />
+                        </g>
+                        <g
+                           transform="translate(0,144)"
+                           id="g166">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path162" />
+                          <g
+                             id="g165">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g163">
+                              <path
+                                 d="M -12.271,0.929 H 1.871 v 14.142 h -14.142 z"
+                                 fill="#bd591b"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path163" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g164">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text163"
+                                 x="6.7999935"
+                                 y="12">Other</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path165" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path168" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g171">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="14px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text170"
+                     x="-3.2000039"
+                     y="21">Department</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path172" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g178">
+            <g
+               transform="translate(200,-22)"
+               id="g177">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path174" />
+              <g
+                 id="g176">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text '311 Service Requests by Department'"
+                   pointer-events="none"
+                   id="g175">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(0,10)"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text174">311 Service Requests by Department</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path176" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path179" />
+      </g>
+    </g>
+  </g>
+</svg>

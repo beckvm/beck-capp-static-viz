@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="901"
+   height="564"
+   viewBox="0 0 901 564"
+   id="svg135"
+   sodipodi:docname="total_area_budget.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs135" />
+  <sodipodi:namedview
+     id="namedview135"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5177305"
+     inkscape:cx="450.01402"
+     inkscape:cy="282"
+     inkscape:window-width="2096"
+     inkscape:window-height="1075"
+     inkscape:window-x="18"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg135" />
+  <rect
+     width="901"
+     height="564"
+     fill="#fff"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(39,27)"
+     id="g135">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g134">
+      <g
+         transform="translate(0,0)"
+         id="g133">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0.5,0.5h500v500h-500Z"
+           stroke="#ddd"
+           id="path1" />
+        <g
+           id="g132">
+          <g
+             class="mark-group role-axis"
+             aria-hidden="true"
+             id="g9">
+            <g
+               transform="translate(0.5,500.5)"
+               id="g8">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path2" />
+              <g
+                 id="g7">
+                <g
+                   class="mark-rule role-axis-grid"
+                   pointer-events="none"
+                   id="g6">
+                  <line
+                     transform="translate(50,-500)"
+                     x2="0"
+                     y2="500"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line2" />
+                  <line
+                     transform="translate(150,-500)"
+                     x2="0"
+                     y2="500"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line3" />
+                  <line
+                     transform="translate(250,-500)"
+                     x2="0"
+                     y2="500"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line4" />
+                  <line
+                     transform="translate(350,-500)"
+                     x2="0"
+                     y2="500"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line5" />
+                  <line
+                     transform="translate(450,-500)"
+                     x2="0"
+                     y2="500"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line6" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path7" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             aria-hidden="true"
+             id="g22">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g21">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path9" />
+              <g
+                 id="g20">
+                <g
+                   class="mark-rule role-axis-grid"
+                   pointer-events="none"
+                   id="g19">
+                  <line
+                     transform="translate(0,500)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line9" />
+                  <line
+                     transform="translate(0,450)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line10" />
+                  <line
+                     transform="translate(0,400)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line11" />
+                  <line
+                     transform="translate(0,350)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line12" />
+                  <line
+                     transform="translate(0,300)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line13" />
+                  <line
+                     transform="translate(0,250)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line14" />
+                  <line
+                     transform="translate(0,200)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line15" />
+                  <line
+                     transform="translate(0,150)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line16" />
+                  <line
+                     transform="translate(0,100)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line17" />
+                  <line
+                     transform="translate(0,50)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line18" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line19" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path20" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'Year' for a discrete scale with 5 values: 2019, 2020, 2021, 2022, 2023"
+             id="g35">
+            <g
+               transform="translate(0.5,500.5)"
+               id="g34">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path22" />
+              <g
+                 id="g33">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g26">
+                  <line
+                     transform="translate(50,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line22" />
+                  <line
+                     transform="translate(150,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line23" />
+                  <line
+                     transform="translate(250,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line24" />
+                  <line
+                     transform="translate(350,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line25" />
+                  <line
+                     transform="translate(450,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line26" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g30">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(50,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text26">2019</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(150,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text27">2020</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(250,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text28">2021</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(350,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text29">2022</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(450,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text30">2023</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g31">
+                  <line
+                     transform="translate(0,0)"
+                     x2="500"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line30" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g32">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(250,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text31">Year</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path33" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Budget (billions of $)' for a linear scale with values from 0 to 20"
+             id="g60">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g59">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path35" />
+              <g
+                 id="g58">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g45">
+                  <line
+                     transform="translate(0,500)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line35" />
+                  <line
+                     transform="translate(0,450)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line36" />
+                  <line
+                     transform="translate(0,400)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line37" />
+                  <line
+                     transform="translate(0,350)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line38" />
+                  <line
+                     transform="translate(0,300)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line39" />
+                  <line
+                     transform="translate(0,250)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line40" />
+                  <line
+                     transform="translate(0,200)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line41" />
+                  <line
+                     transform="translate(0,150)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line42" />
+                  <line
+                     transform="translate(0,100)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line43" />
+                  <line
+                     transform="translate(0,50)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line44" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line45" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g55">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,503)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text45">0</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,453)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text46">2</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,403)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text47">4</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,353)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text48">6</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,303)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text49">8</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,253)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text50">10</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,203)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text51">12</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,153.00000000000003)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text52">14</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,102.99999999999997)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text53">16</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,52.999999999999986)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text54">18</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text55">20</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g56">
+                  <line
+                     transform="translate(0,500)"
+                     x2="0"
+                     y2="-500"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line55" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g57">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(-22.123046875,250) rotate(-90) translate(0,-2)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text56">Budget (billions of $)</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path58" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope pathgroup"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g85">
+            <g
+               transform="translate(0,0)"
+               id="g63">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path60" />
+              <g
+                 id="g62">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g61">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 7.798168018; Department: All Other Departments; department2: All Other Departments"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,214.998L150,184.822L250,161.937L350,47.103L450,50.625L450,359.501L350,362.117L250,393.648L150,407.779L50,409.952Z"
+                     fill="#EAEAEA"
+                     id="path61" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path62" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g66">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path63" />
+              <g
+                 id="g65">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g64">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.177264833; Department: Chicago Department of Public Health; department2: Chicago Department of Public Health"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,409.952L150,407.779L250,393.648L350,362.117L450,359.501L450,383.811L350,387.158L250,406.613L150,413.32L50,414.384Z"
+                     fill="#3BD4CF"
+                     id="path64" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path65" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g69">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path66" />
+              <g
+                 id="g68">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g67">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.543060487; Department: Chicago Department of Transportation; department2: Chicago Department of Transportation"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,414.384L150,413.32L250,406.613L350,387.158L450,383.811L450,418.792L350,419.07L250,425.872L150,425.02L50,427.96Z"
+                     fill="#EA2B8B"
+                     id="path67" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path68" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g72">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path69" />
+              <g
+                 id="g71">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g70">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.652282316; Department: Chicago Fire Department; department2: Chicago Fire Department"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,427.96L150,425.02L250,425.872L350,419.07L450,418.792L450,438.069L350,438.546L250,444.331L150,441.875L50,444.267Z"
+                     fill="#F8C22C"
+                     id="path70" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path71" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g75">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path72" />
+              <g
+                 id="g74">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g73">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 1.656002057; Department: Chicago Police Department; department2: Chicago Police Department"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,444.267L150,441.875L250,444.331L350,438.546L450,438.069L450,486.65L350,486.027L250,486.799L150,485.927L50,485.667Z"
+                     fill="#108D50"
+                     id="path73" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path74" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g78">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path75" />
+              <g
+                 id="g77">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g76">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.071420108; Department: Chicago Public Library; department2: Chicago Public Library"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,485.667L150,485.927L250,486.799L350,486.027L450,486.65L450,489.484L350,489.267L250,489.574L150,488.04L50,487.453Z"
+                     fill="#00058F"
+                     id="path76" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path77" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g81">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path78" />
+              <g
+                 id="g80">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g79">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.26802634; Department: Department of Streets and Sanitation; department2: Department of Streets and Sanitation"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,487.453L150,488.04L250,489.574L350,489.267L450,489.484L450,497.272L350,496.968L250,496.651L150,494.881L50,494.153Z"
+                     fill="#C994F0"
+                     id="path79" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path80" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g84">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v500h-500Z"
+                 id="path81" />
+              <g
+                 id="g83">
+                <g
+                   class="mark-area role-mark marks"
+                   role="graphics-object"
+                   aria-roledescription="area mark container"
+                   id="g82">
+                  <path
+                     aria-label="Year: 2019; Budget (billions of $): 0.233860841; Department: Office of Emergency Management and Communications; department2: Office of Emergency Management and Communications"
+                     role="graphics-symbol"
+                     aria-roledescription="area mark"
+                     d="M50,494.153L150,494.881L250,496.651L350,496.968L450,497.272L450,500L350,500L250,500L150,500L50,500Z"
+                     fill="#FF6F6F"
+                     id="path82" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path83" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'Department' for fill color with 8 values: All Other Departments, Chicago Department of Public Health, Chicago Department of Transportation, Chicago Fire Department, Chicago Police Department, ending with Office of Emergency Management and Communications"
+             id="g127">
+            <g
+               transform="translate(518,0)"
+               id="g126">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M -2.8579522,-0.8794764 H 329.33926 c 2.7864,0 5.04859,2.2621972 5.04859,5.0485899 V 176.83089 c 0,2.78639 -2.26219,5.04858 -5.04859,5.04858 H -2.8579522 c -2.7863926,0 -5.0485899,-2.26219 -5.0485899,-5.04858 V 4.1691135 c 0,-2.7863927 2.2621973,-5.0485899 5.0485899,-5.0485899 z"
+                 pointer-events="none"
+                 fill="#fff5db"
+                 id="path85"
+                 style="stroke-width:1.00972" />
+              <g
+                 id="g125">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g123">
+                  <g
+                     transform="translate(10,29)"
+                     id="g122">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path86" />
+                    <g
+                       id="g121">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g120">
+                        <g
+                           transform="translate(0,0)"
+                           id="g91">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path87" />
+                          <g
+                             id="g90">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g88">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#eaeaea"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path88" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g89">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text88"
+                                 x="9.5999975"
+                                 y="11.59971">All Other Departments</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path90" />
+                        </g>
+                        <g
+                           transform="translate(0,18)"
+                           id="g95">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path91" />
+                          <g
+                             id="g94">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g92">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#3bd4cf"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path92" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g93">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text92"
+                                 x="9.5999975"
+                                 y="11.59971">Chicago Department of Public Health</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path94" />
+                        </g>
+                        <g
+                           transform="translate(0,36)"
+                           id="g99">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path95" />
+                          <g
+                             id="g98">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g96">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#ea2b8b"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path96" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g97">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text96"
+                                 x="9.5999975"
+                                 y="11.59971">Chicago Department of Transportation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path98" />
+                        </g>
+                        <g
+                           transform="translate(0,54)"
+                           id="g103">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path99" />
+                          <g
+                             id="g102">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g100">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#f8c22c"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path100" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g101">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text100"
+                                 x="9.5999975"
+                                 y="11.59971">Chicago Fire Department</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path102" />
+                        </g>
+                        <g
+                           transform="translate(0,72)"
+                           id="g107">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path103" />
+                          <g
+                             id="g106">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g104">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#108d50"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path104" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g105">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text104"
+                                 x="9.5999975"
+                                 y="11.59971">Chicago Police Department</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path106" />
+                        </g>
+                        <g
+                           transform="translate(0,90)"
+                           id="g111">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path107" />
+                          <g
+                             id="g110">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g108">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#00058f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path108" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g109">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text108"
+                                 x="9.5999975"
+                                 y="11.59971">Chicago Public Library</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path110" />
+                        </g>
+                        <g
+                           transform="translate(0,108)"
+                           id="g115">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path111" />
+                          <g
+                             id="g114">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g112">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#c994f0"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path112" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g113">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text112"
+                                 x="9.5999975"
+                                 y="11.59971">Department of Streets and Sanitation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path114" />
+                        </g>
+                        <g
+                           transform="translate(0,126)"
+                           id="g119">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v15.071067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path115" />
+                          <g
+                             id="g118">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g116">
+                              <path
+                                 d="M -9.471,0.52871054 H 4.671 V 14.67071 H -9.471 Z"
+                                 fill="#ff6f6f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path116" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g117">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="11.1462px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text116"
+                                 x="9.6479406"
+                                 y="11.361451"
+                                 style="stroke-width:0.928849">Office of Emergency Management and Communications</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path118" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path121" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g124">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="14px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text123"
+                     x="-0.40000537"
+                     y="20.59971">Department</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path125" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g131">
+            <g
+               transform="translate(250,-22)"
+               id="g130">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path127" />
+              <g
+                 id="g129">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'City of Chicago Budget 2019-2023'"
+                   pointer-events="none"
+                   id="g128">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(0,10)"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text127">City of Chicago Budget 2019-2023</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path129" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path132" />
+      </g>
+    </g>
+  </g>
+</svg>

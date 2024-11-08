@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="903"
+   height="464"
+   viewBox="0 0 903 464"
+   id="svg163"
+   sodipodi:docname="selected_dept_budgets.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs163" />
+  <sodipodi:namedview
+     id="namedview163"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3200254"
+     inkscape:cx="437.49157"
+     inkscape:cy="214.01103"
+     inkscape:window-width="1920"
+     inkscape:window-height="1074"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg163" />
+  <rect
+     width="903"
+     height="464"
+     fill="#fff"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(41,27)"
+     id="g163">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g162">
+      <g
+         transform="translate(0,0)"
+         id="g161">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0.5,0.5h500v400h-500Z"
+           stroke="#ddd"
+           id="path1" />
+        <g
+           id="g160">
+          <g
+             class="mark-group role-axis"
+             aria-hidden="true"
+             id="g9">
+            <g
+               transform="translate(0.5,400.5)"
+               id="g8">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path2" />
+              <g
+                 id="g7">
+                <g
+                   class="mark-rule role-axis-grid"
+                   pointer-events="none"
+                   id="g6">
+                  <line
+                     transform="translate(50,-400)"
+                     x2="0"
+                     y2="400"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line2" />
+                  <line
+                     transform="translate(150,-400)"
+                     x2="0"
+                     y2="400"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line3" />
+                  <line
+                     transform="translate(250,-400)"
+                     x2="0"
+                     y2="400"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line4" />
+                  <line
+                     transform="translate(350,-400)"
+                     x2="0"
+                     y2="400"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line5" />
+                  <line
+                     transform="translate(450,-400)"
+                     x2="0"
+                     y2="400"
+                     stroke="#ddd"
+                     stroke-width="0.2"
+                     opacity="1"
+                     id="line6" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path7" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             aria-hidden="true"
+             id="g22">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g21">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path9" />
+              <g
+                 id="g20">
+                <g
+                   class="mark-rule role-axis-grid"
+                   pointer-events="none"
+                   id="g19">
+                  <line
+                     transform="translate(0,400)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line9" />
+                  <line
+                     transform="translate(0,360)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line10" />
+                  <line
+                     transform="translate(0,320)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line11" />
+                  <line
+                     transform="translate(0,280)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line12" />
+                  <line
+                     transform="translate(0,240)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line13" />
+                  <line
+                     transform="translate(0,200)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line14" />
+                  <line
+                     transform="translate(0,160)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line15" />
+                  <line
+                     transform="translate(0,120)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line16" />
+                  <line
+                     transform="translate(0,80)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line17" />
+                  <line
+                     transform="translate(0,40)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line18" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="500"
+                     y2="0"
+                     stroke="#ddd"
+                     stroke-width="0.4"
+                     stroke-dasharray="3"
+                     opacity="1"
+                     id="line19" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path20" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="X-axis titled 'Year' for a discrete scale with 5 values: 2019, 2020, 2021, 2022, 2023"
+             id="g35">
+            <g
+               transform="translate(0.5,400.5)"
+               id="g34">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path22" />
+              <g
+                 id="g33">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g26">
+                  <line
+                     transform="translate(50,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line22" />
+                  <line
+                     transform="translate(150,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line23" />
+                  <line
+                     transform="translate(250,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line24" />
+                  <line
+                     transform="translate(350,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line25" />
+                  <line
+                     transform="translate(450,0)"
+                     x2="0"
+                     y2="5"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line26" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g30">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(50,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text26">2019</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(150,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text27">2020</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(250,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text28">2021</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(350,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text29">2022</text>
+                  <text
+                     text-anchor="middle"
+                     transform="translate(450,15)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text30">2023</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g31">
+                  <line
+                     transform="translate(0,0)"
+                     x2="500"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line30" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g32">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(250,30)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text31">Year</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path33" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-axis"
+             role="graphics-symbol"
+             aria-roledescription="axis"
+             aria-label="Y-axis titled 'Budget (billons of $)' for a linear scale with values from 0.0 to 2.0"
+             id="g60">
+            <g
+               transform="translate(0.5,0.5)"
+               id="g59">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path35" />
+              <g
+                 id="g58">
+                <g
+                   class="mark-rule role-axis-tick"
+                   pointer-events="none"
+                   id="g45">
+                  <line
+                     transform="translate(0,400)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line35" />
+                  <line
+                     transform="translate(0,360)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line36" />
+                  <line
+                     transform="translate(0,320)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line37" />
+                  <line
+                     transform="translate(0,280)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line38" />
+                  <line
+                     transform="translate(0,240)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line39" />
+                  <line
+                     transform="translate(0,200)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line40" />
+                  <line
+                     transform="translate(0,160)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line41" />
+                  <line
+                     transform="translate(0,120)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line42" />
+                  <line
+                     transform="translate(0,80)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line43" />
+                  <line
+                     transform="translate(0,40)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line44" />
+                  <line
+                     transform="translate(0,0)"
+                     x2="-5"
+                     y2="0"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line45" />
+                </g>
+                <g
+                   class="mark-text role-axis-label"
+                   pointer-events="none"
+                   id="g55">
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,403)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text45">0.0</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,363)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text46">0.2</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,323)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text47">0.4</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,283)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text48">0.6</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,243)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text49">0.8</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,203)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text50">1.0</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,163)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text51">1.2</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,123.00000000000001)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text52">1.4</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,82.99999999999999)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text53">1.6</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,42.99999999999999)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text54">1.8</text>
+                  <text
+                     text-anchor="end"
+                     transform="translate(-7,3)"
+                     font-family="sans-serif"
+                     font-size="10px"
+                     fill="#000"
+                     opacity="1"
+                     id="text55">2.0</text>
+                </g>
+                <g
+                   class="mark-rule role-axis-domain"
+                   pointer-events="none"
+                   id="g56">
+                  <line
+                     transform="translate(0,400)"
+                     x2="0"
+                     y2="-400"
+                     stroke="#888"
+                     stroke-width="0.5"
+                     opacity="1"
+                     id="line55" />
+                </g>
+                <g
+                   class="mark-text role-axis-title"
+                   pointer-events="none"
+                   id="g57">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(-24.9013671875,200) rotate(-90) translate(0,-2)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="normal"
+                     fill="#000"
+                     opacity="1"
+                     id="text56">Budget (billons of $)</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path58" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope layer_0_pathgroup"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g82">
+            <g
+               transform="translate(0,0)"
+               id="g63">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path60" />
+              <g
+                 id="g62">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g61">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.177264833; Department: Chicago Department of Public Health"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,364.547L150,355.669L250,296.279L350,199.671L450,205.52"
+                     stroke="#3BD4CF"
+                     stroke-width="3"
+                     id="path61" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path62" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g66">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path63" />
+              <g
+                 id="g65">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g64">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.543060487; Department: Chicago Department of Transportation"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,291.388L150,306.406L250,245.929L350,144.7L450,120.151"
+                     stroke="#EA2B8B"
+                     stroke-width="3"
+                     id="path64" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path65" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g69">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path66" />
+              <g
+                 id="g68">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g67">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.652282316; Department: Chicago Fire Department"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,269.544L150,265.154L250,252.328L350,244.196L450,245.792"
+                     stroke="#F8C22C"
+                     stroke-width="3"
+                     id="path67" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path68" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g72">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path69" />
+              <g
+                 id="g71">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g70">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 1.656002057; Department: Chicago Police Department"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,68.8L150,47.584L250,60.253L350,20.152L450,11.352"
+                     stroke="#108D50"
+                     stroke-width="3"
+                     id="path70" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path71" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g75">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path72" />
+              <g
+                 id="g74">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g73">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.071420108; Department: Chicago Public Library"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,385.716L150,383.096L250,377.806L350,374.076L450,377.326"
+                     stroke="#00058F"
+                     stroke-width="3"
+                     id="path73" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path74" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g78">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path75" />
+              <g
+                 id="g77">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g76">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.26802634; Department: Department of Streets and Sanitation"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,346.395L150,345.273L250,343.379L350,338.396L450,337.697"
+                     stroke="#C994F0"
+                     stroke-width="3"
+                     id="path76" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path77" />
+            </g>
+            <g
+               transform="translate(0,0)"
+               id="g81">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v400h-500Z"
+                 id="path78" />
+              <g
+                 id="g80">
+                <g
+                   class="mark-line role-mark layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="line mark container"
+                   id="g79">
+                  <path
+                     aria-label="Year: 2019; Budget (billons of $): 0.233860841; Department: Office of Emergency Management and Communications"
+                     role="graphics-symbol"
+                     aria-roledescription="line mark"
+                     d="M50,353.228L150,359.051L250,373.21L350,375.743L450,378.174"
+                     stroke="#FF6F6F"
+                     stroke-width="3"
+                     id="path79" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path80" />
+            </g>
+          </g>
+          <g
+             class="mark-symbol role-mark layer_1_marks"
+             role="graphics-object"
+             aria-roledescription="symbol mark container"
+             id="g116">
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.177264833; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,364.54703340000003)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#3BD4CF"
+               stroke-width="2"
+               opacity="1"
+               id="path82" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.543060487; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,291.3879026)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#EA2B8B"
+               stroke-width="2"
+               opacity="1"
+               id="path83" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.652282316; Department: Chicago Fire Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,269.5435368)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#F8C22C"
+               stroke-width="2"
+               opacity="1"
+               id="path84" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 1.656002057; Department: Chicago Police Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,68.79958859999995)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#108D50"
+               stroke-width="2"
+               opacity="1"
+               id="path85" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.071420108; Department: Chicago Public Library"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,385.7159784)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#00058F"
+               stroke-width="2"
+               opacity="1"
+               id="path86" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.26802634; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,346.394732)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#C994F0"
+               stroke-width="2"
+               opacity="1"
+               id="path87" />
+            <path
+               aria-label="Year: 2019; Budget (billons of $): 0.233860841; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(50,353.2278318)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#FF6F6F"
+               stroke-width="2"
+               opacity="1"
+               id="path88" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.221654005; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,355.669199)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#3BD4CF"
+               stroke-width="2"
+               opacity="1"
+               id="path89" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.467971706; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,306.4056588)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#EA2B8B"
+               stroke-width="2"
+               opacity="1"
+               id="path90" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.674228297; Department: Chicago Fire Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,265.1543406)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#F8C22C"
+               stroke-width="2"
+               opacity="1"
+               id="path91" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 1.762078349; Department: Chicago Police Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,47.58433020000004)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#108D50"
+               stroke-width="2"
+               opacity="1"
+               id="path92" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.084521915; Department: Chicago Public Library"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,383.095617)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#00058F"
+               stroke-width="2"
+               opacity="1"
+               id="path93" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.273635333; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,345.2729334)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#C994F0"
+               stroke-width="2"
+               opacity="1"
+               id="path94" />
+            <path
+               aria-label="Year: 2020; Budget (billons of $): 0.20474705; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(150,359.05059)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#FF6F6F"
+               stroke-width="2"
+               opacity="1"
+               id="path95" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.518606427; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,296.2787146)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#3BD4CF"
+               stroke-width="2"
+               opacity="1"
+               id="path96" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.770356074; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,245.92878520000002)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#EA2B8B"
+               stroke-width="2"
+               opacity="1"
+               id="path97" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.738357735; Department: Chicago Fire Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,252.32845299999997)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#F8C22C"
+               stroke-width="2"
+               opacity="1"
+               id="path98" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 1.698735503; Department: Chicago Police Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,60.252899400000004)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#108D50"
+               stroke-width="2"
+               opacity="1"
+               id="path99" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.110971841; Department: Chicago Public Library"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,377.8056318)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#00058F"
+               stroke-width="2"
+               opacity="1"
+               id="path100" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.283104001; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,343.37919980000004)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#C994F0"
+               stroke-width="2"
+               opacity="1"
+               id="path101" />
+            <path
+               aria-label="Year: 2021; Budget (billons of $): 0.133947766; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(250,373.2104468)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#FF6F6F"
+               stroke-width="2"
+               opacity="1"
+               id="path102" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 1.001647288; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,199.6705424)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#3BD4CF"
+               stroke-width="2"
+               opacity="1"
+               id="path103" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 1.276497782; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,144.70044360000003)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#EA2B8B"
+               stroke-width="2"
+               opacity="1"
+               id="path104" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 0.779018476; Department: Chicago Fire Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,244.19630479999998)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#F8C22C"
+               stroke-width="2"
+               opacity="1"
+               id="path105" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 1.899239537; Department: Chicago Police Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,20.15209259999997)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#108D50"
+               stroke-width="2"
+               opacity="1"
+               id="path106" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 0.129622327; Department: Chicago Public Library"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,374.0755346)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#00058F"
+               stroke-width="2"
+               opacity="1"
+               id="path107" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 0.308021905; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,338.395619)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#C994F0"
+               stroke-width="2"
+               opacity="1"
+               id="path108" />
+            <path
+               aria-label="Year: 2022; Budget (billons of $): 0.121287347; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(350,375.7425306)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#FF6F6F"
+               stroke-width="2"
+               opacity="1"
+               id="path109" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 0.972398008; Department: Chicago Department of Public Health"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,205.52039840000003)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#3BD4CF"
+               stroke-width="2"
+               opacity="1"
+               id="path110" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 1.399244996; Department: Chicago Department of Transportation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,120.1510008)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#EA2B8B"
+               stroke-width="2"
+               opacity="1"
+               id="path111" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 0.771041777; Department: Chicago Fire Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,245.7916446)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#F8C22C"
+               stroke-width="2"
+               opacity="1"
+               id="path112" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 1.943242055; Department: Chicago Police Department"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,11.351588999999995)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#108D50"
+               stroke-width="2"
+               opacity="1"
+               id="path113" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 0.113371472; Department: Chicago Public Library"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,377.3257056)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#00058F"
+               stroke-width="2"
+               opacity="1"
+               id="path114" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 0.311515608; Department: Department of Streets and Sanitation"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,337.6968784)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#C994F0"
+               stroke-width="2"
+               opacity="1"
+               id="path115" />
+            <path
+               aria-label="Year: 2023; Budget (billons of $): 0.109129306; Department: Office of Emergency Management and Communications"
+               role="graphics-symbol"
+               aria-roledescription="point"
+               transform="translate(450,378.1741388)"
+               d="M2.739,0A2.739,2.739,0,1,1,-2.739,0A2.739,2.739,0,1,1,2.739,0"
+               fill="#FF6F6F"
+               stroke-width="2"
+               opacity="1"
+               id="path116" />
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'Department' for fill color and stroke color with 7 values: Chicago Department of Public Health, Chicago Department of Transportation, Chicago Fire Department, Chicago Police Department, Chicago Public Library, Department of Streets and Sanitation, Office of Emergency Management and Communications"
+             id="g155">
+            <g
+               transform="translate(518,0)"
+               id="g154">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M -4.0125196,-1.3765713 H 330.13398 c 2.80275,0 5.07821,2.27547153 5.07821,5.0782143 V 172.29835 c 0,2.80275 -2.27546,5.07822 -5.07821,5.07822 H -4.0125196 c -2.8027428,0 -5.0782143,-2.27547 -5.0782143,-5.07822 V 3.701643 c 0,-2.80274277 2.2754715,-5.0782143 5.0782143,-5.0782143 z"
+                 pointer-events="none"
+                 fill="#fff5db"
+                 id="path117"
+                 style="stroke-width:1.01565" />
+              <g
+                 id="g153">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g151">
+                  <g
+                     transform="translate(10,29)"
+                     id="g150">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path118" />
+                    <g
+                       id="g149">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g148">
+                        <g
+                           transform="translate(0,0)"
+                           id="g123">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path119" />
+                          <g
+                             id="g122">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g120">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#3bd4cf"
+                                 stroke="#3bd4cf"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path120" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g121">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text120"
+                                 x="8.2999935"
+                                 y="12">Chicago Department of Public Health</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path122" />
+                        </g>
+                        <g
+                           transform="translate(0,20)"
+                           id="g127">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path123" />
+                          <g
+                             id="g126">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g124">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#ea2b8b"
+                                 stroke="#ea2b8b"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path124" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g125">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text124"
+                                 x="8.2999935"
+                                 y="12">Chicago Department of Transportation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path126" />
+                        </g>
+                        <g
+                           transform="translate(0,40)"
+                           id="g131">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path127" />
+                          <g
+                             id="g130">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g128">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#f8c22c"
+                                 stroke="#f8c22c"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path128" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g129">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text128"
+                                 x="8.2999935"
+                                 y="12">Chicago Fire Department</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path130" />
+                        </g>
+                        <g
+                           transform="translate(0,60)"
+                           id="g135">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path131" />
+                          <g
+                             id="g134">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g132">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#108d50"
+                                 stroke="#108d50"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path132" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g133">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text132"
+                                 x="8.2999935"
+                                 y="12">Chicago Police Department</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path134" />
+                        </g>
+                        <g
+                           transform="translate(0,80)"
+                           id="g139">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path135" />
+                          <g
+                             id="g138">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g136">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#00058f"
+                                 stroke="#00058f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path136" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g137">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text136"
+                                 x="8.2999935"
+                                 y="12">Chicago Public Library</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path138" />
+                        </g>
+                        <g
+                           transform="translate(0,100)"
+                           id="g143">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path139" />
+                          <g
+                             id="g142">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g140">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#c994f0"
+                                 stroke="#c994f0"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path140" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g141">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text140"
+                                 x="8.2999935"
+                                 y="12">Department of Streets and Sanitation</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path142" />
+                        </g>
+                        <g
+                           transform="translate(0,120)"
+                           id="g147">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h318.142578125v16.571067811865476h-318.142578125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path143" />
+                          <g
+                             id="g146">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g144">
+                              <path
+                                 d="M -10.771,0.929 H 3.371 v 14.142 h -14.142 z"
+                                 fill="#ff6f6f"
+                                 stroke="#ff6f6f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path144" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g145">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="11.2092px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text144"
+                                 x="8.3443995"
+                                 y="11.779323"
+                                 style="stroke-width:0.934099">Office of Emergency Management and Communications</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path146" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path149" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g152">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="14px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text151"
+                     x="-1.700003"
+                     y="21">Department</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path153" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g159">
+            <g
+               transform="translate(250,-22)"
+               id="g158">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path155" />
+              <g
+                 id="g157">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'Selected Department Budgets 2019-2023'"
+                   pointer-events="none"
+                   id="g156">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(0,10)"
+                     font-family="sans-serif"
+                     font-size="13px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text155">Selected Department Budgets 2019-2023</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path157" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path160" />
+      </g>
+    </g>
+  </g>
+</svg>

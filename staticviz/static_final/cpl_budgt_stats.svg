@@ -1,0 +1,2668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="1240"
+   height="366"
+   viewBox="0 0 1240 366"
+   id="svg252"
+   sodipodi:docname="cpl_budgt_stats.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs252" />
+  <sodipodi:namedview
+     id="namedview252"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.79884805"
+     inkscape:cx="701.63531"
+     inkscape:cy="228.45396"
+     inkscape:window-width="1472"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg252" />
+  <rect
+     width="1240"
+     height="366"
+     fill="#fff"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(79,28)"
+     id="g252">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g251">
+      <g
+         transform="translate(0,0)"
+         id="g250">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0,0h0v300h0Z"
+           id="path1" />
+        <g
+           id="g249">
+          <g
+             class="mark-group role-scope concat_0_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g78">
+            <g
+               transform="translate(0,0)"
+               id="g77">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h300v300h-300Z"
+                 stroke="#ddd"
+                 id="path2" />
+              <g
+                 id="g76">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g17">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g16">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g15">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g14">
+                        <line
+                           transform="translate(0,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line3" />
+                        <line
+                           transform="translate(27,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line4" />
+                        <line
+                           transform="translate(55,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line5" />
+                        <line
+                           transform="translate(82,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line6" />
+                        <line
+                           transform="translate(109,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line7" />
+                        <line
+                           transform="translate(136,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line8" />
+                        <line
+                           transform="translate(164,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line9" />
+                        <line
+                           transform="translate(191,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line10" />
+                        <line
+                           transform="translate(218,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line11" />
+                        <line
+                           transform="translate(245,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line12" />
+                        <line
+                           transform="translate(273,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line13" />
+                        <line
+                           transform="translate(300,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line14" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path15" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g25">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g24">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path17" />
+                    <g
+                       id="g23">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g22">
+                        <line
+                           transform="translate(0,289)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line17" />
+                        <line
+                           transform="translate(0,236)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line18" />
+                        <line
+                           transform="translate(0,182)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line19" />
+                        <line
+                           transform="translate(0,129)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line20" />
+                        <line
+                           transform="translate(0,75)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line21" />
+                        <line
+                           transform="translate(0,21)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line22" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path23" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled '# of Visitors' for a linear scale with values from 6,000,000 to 17,000,000"
+                   id="g52">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g51">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path25" />
+                    <g
+                       id="g50">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g36">
+                        <line
+                           transform="translate(0,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line25" />
+                        <line
+                           transform="translate(27,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line26" />
+                        <line
+                           transform="translate(55,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line27" />
+                        <line
+                           transform="translate(82,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line28" />
+                        <line
+                           transform="translate(109,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line29" />
+                        <line
+                           transform="translate(136,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line30" />
+                        <line
+                           transform="translate(164,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line31" />
+                        <line
+                           transform="translate(191,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line32" />
+                        <line
+                           transform="translate(218,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line33" />
+                        <line
+                           transform="translate(245,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line34" />
+                        <line
+                           transform="translate(273,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line35" />
+                        <line
+                           transform="translate(300,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line36" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g47">
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text36"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+                           x="-4"
+                           y="15"><tspan
+                             sodipodi:role="line"
+                             id="tspan268"
+                             x="-4"
+                             y="15">6</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text37"
+                           transform="translate(27.272727272727273,15)"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan269">7</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(54.54545454545455,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text38"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan270">8</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(81.81818181818181,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text39"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan271">9</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(109.0909090909091,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text40"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan272">10</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(136.36363636363635,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text41"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan273">11</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(163.63636363636363,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text42"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan274">12</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(190.9090909090909,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text43"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan275">13</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(218.1818181818182,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text44"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan276">14</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(245.45454545454547,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text45"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan277">15</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(272.7272727272727,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text46"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan279">16</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text47"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+                             sodipodi:role="line"
+                             id="tspan278">17</tspan></text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g48">
+                        <line
+                           transform="translate(0,0)"
+                           x2="300"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line47" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g49">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,30)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000"
+                           opacity="1"
+                           id="text48"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan280"># of Visitors (millions)</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path50" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Circulation' for a linear scale with values from 11,400,000 to 14,200,000"
+                   id="g67">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g66">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path52" />
+                    <g
+                       id="g65">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g57">
+                        <line
+                           transform="translate(0,289)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line52" />
+                        <line
+                           transform="translate(0,236)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line53" />
+                        <line
+                           transform="translate(0,182)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line54" />
+                        <line
+                           transform="translate(0,129)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line55" />
+                        <line
+                           transform="translate(0,75)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line56" />
+                        <line
+                           transform="translate(0,21)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line57" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g62">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,292.2857142857143)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text57"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan261">11.5</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,238.71428571428572)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text58"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan260">12</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,185.14285714285717)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text59"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan259">12.5</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,131.57142857142858)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text60"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan258">13</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,78)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text61"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan257">13.5</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,24.42857142857142)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text62"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan256">14</tspan></text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g63">
+                        <line
+                           transform="translate(0,300)"
+                           x2="0"
+                           y2="-300"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line62" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g64">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000000"
+                           opacity="1"
+                           id="text63"
+                           x="-150"
+                           y="-43.048828"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan255"
+                             x="-150"
+                             y="-43.048828">Circulation (millions)</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path65" />
+                  </g>
+                </g>
+                <g
+                   class="mark-symbol role-mark concat_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g71">
+                  <path
+                     aria-label="# of Visitors: 16079160; Circulation: 11484491; Year: 2019"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(274.8861818181818,290.94739285714286)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#3BD4CF"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path67" />
+                  <path
+                     aria-label="# of Visitors: 6633560; Circulation: 13770925; Year: 2020"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(17.27890909090909,45.97232142857144)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#EA2B8B"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path68" />
+                  <path
+                     aria-label="# of Visitors: 7149504; Circulation: 12489095; Year: 2021"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(31.350109090909093,183.31125)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#F8C22C"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path69" />
+                  <path
+                     aria-label="# of Visitors: 9020512; Circulation: 12699254; Year: 2022"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(82.3776,160.79421428571428)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#108D50"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path70" />
+                  <path
+                     aria-label="# of Visitors: 9742730; Circulation: 14055197; Year: 2023"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(102.07445454545456,15.51460714285714)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#00058F"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path71" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g75">
+                  <g
+                     transform="translate(150,-17)"
+                     id="g74">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path72" />
+                    <g
+                       id="g73">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Chicago Public Library Visitors vs Circulation 2019-2023'"
+                         pointer-events="none"
+                         id="g72">
+                        <text
+                           text-anchor="middle"
+                           font-family="sans-serif"
+                           font-size="13px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text72"
+                           x="-4"
+                           y="6"
+                           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan252"
+                             x="-4"
+                             y="6">CPL Visitors vs Circulation 2019-2023</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path73" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path76" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope concat_1_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g157">
+            <g
+               transform="translate(389,0)"
+               id="g156">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h300v300h-300Z"
+                 stroke="#ddd"
+                 id="path78" />
+              <g
+                 id="g155">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g93">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g92">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path79" />
+                    <g
+                       id="g91">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g90">
+                        <line
+                           transform="translate(0,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line79" />
+                        <line
+                           transform="translate(27,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line80" />
+                        <line
+                           transform="translate(55,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line81" />
+                        <line
+                           transform="translate(82,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line82" />
+                        <line
+                           transform="translate(109,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line83" />
+                        <line
+                           transform="translate(136,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line84" />
+                        <line
+                           transform="translate(164,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line85" />
+                        <line
+                           transform="translate(191,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line86" />
+                        <line
+                           transform="translate(218,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line87" />
+                        <line
+                           transform="translate(245,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line88" />
+                        <line
+                           transform="translate(273,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line89" />
+                        <line
+                           transform="translate(300,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line90" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path91" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g102">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g101">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path93" />
+                    <g
+                       id="g100">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g99">
+                        <line
+                           transform="translate(0,300)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line93" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line94" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line95" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line96" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line97" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line98" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line99" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path100" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled '# of Visitors' for a linear scale with values from 6,000,000 to 17,000,000"
+                   id="g129">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g128">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path102" />
+                    <g
+                       id="g127">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g113">
+                        <line
+                           transform="translate(0,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line102" />
+                        <line
+                           transform="translate(27,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line103" />
+                        <line
+                           transform="translate(55,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line104" />
+                        <line
+                           transform="translate(82,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line105" />
+                        <line
+                           transform="translate(109,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line106" />
+                        <line
+                           transform="translate(136,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line107" />
+                        <line
+                           transform="translate(164,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line108" />
+                        <line
+                           transform="translate(191,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line109" />
+                        <line
+                           transform="translate(218,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line110" />
+                        <line
+                           transform="translate(245,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line111" />
+                        <line
+                           transform="translate(273,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line112" />
+                        <line
+                           transform="translate(300,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line113" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g124">
+                        <text
+                           text-anchor="start"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text113"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;opacity:1;fill:#000000"
+                           x="-4"
+                           y="15"><tspan
+                             sodipodi:role="line"
+                             id="tspan283"
+                             x="-4"
+                             y="15">6</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(27.272727272727273,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text114"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan282">7</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(54.54545454545455,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text115"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan284">8</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(81.81818181818181,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text116"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan292">9</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(109.0909090909091,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text117"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan285">10</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(136.36363636363635,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text118"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan291">11</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(163.63636363636363,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text119"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan286">12</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(190.9090909090909,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text120"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan290">13</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(218.1818181818182,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text121"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan293">14</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(245.45454545454547,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text122"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan289">15</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(272.7272727272727,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text123"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan288">16</tspan></text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(300,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="0"
+                           id="text124"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:end;opacity:0;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan287">17</tspan></text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g125">
+                        <line
+                           transform="translate(0,0)"
+                           x2="300"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line124" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g126">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,30)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000"
+                           opacity="1"
+                           id="text125"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan281"># of Visitors (millions)</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path127" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Budget (billions of $)' for a linear scale with values from 0.07 to 0.13"
+                   id="g146">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g145">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path129" />
+                    <g
+                       id="g144">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g135">
+                        <line
+                           transform="translate(0,300)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line129" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line130" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line131" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line132" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line133" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line134" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line135" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g141">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,303)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text135">0.07</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,253)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text136">0.08</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,203.00000000000003)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text137">0.09</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,153)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text138">0.10</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,103.00000000000001)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text139">0.11</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,53.00000000000006)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text140">0.12</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text141">0.13</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g142">
+                        <line
+                           transform="translate(0,300)"
+                           x2="0"
+                           y2="-300"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line141" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g143">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000000"
+                           opacity="1"
+                           id="text142"
+                           x="-150"
+                           y="-46.063156">Budget (billions of $)</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path144" />
+                  </g>
+                </g>
+                <g
+                   class="mark-symbol role-mark concat_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g150">
+                  <path
+                     aria-label="# of Visitors: 16079160; Budget (billions of $): 0.071420108; Year: 2019"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(274.8861818181818,292.8994600000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#3BD4CF"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path146" />
+                  <path
+                     aria-label="# of Visitors: 6633560; Budget (billions of $): 0.084521915; Year: 2020"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(17.27890909090909,227.390425)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#EA2B8B"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path147" />
+                  <path
+                     aria-label="# of Visitors: 7149504; Budget (billions of $): 0.110971841; Year: 2021"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(31.350109090909093,95.14079500000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#F8C22C"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path148" />
+                  <path
+                     aria-label="# of Visitors: 9020512; Budget (billions of $): 0.129622327; Year: 2022"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(82.3776,1.8883650000001029)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#108D50"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path149" />
+                  <path
+                     aria-label="# of Visitors: 9742730; Budget (billions of $): 0.113371472; Year: 2023"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(102.07445454545456,83.14264000000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#00058F"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path150" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g154">
+                  <g
+                     transform="translate(150,-22)"
+                     id="g153">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path151" />
+                    <g
+                       id="g152">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Chicago Public Library Visitors vs Budget 2019-2023'"
+                         pointer-events="none"
+                         id="g151">
+                        <text
+                           text-anchor="middle"
+                           font-family="sans-serif"
+                           font-size="13px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text151"
+                           y="11"
+                           x="4"
+                           style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan253">CPL Visitors vs Budget 2019-2023</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path152" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path155" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope concat_2_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g218">
+            <g
+               transform="translate(766,0)"
+               id="g217">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h300v300h-300Z"
+                 stroke="#ddd"
+                 id="path157" />
+              <g
+                 id="g216">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g166">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g165">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path158" />
+                    <g
+                       id="g164">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g163">
+                        <line
+                           transform="translate(11,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line158" />
+                        <line
+                           transform="translate(64,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line159" />
+                        <line
+                           transform="translate(118,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line160" />
+                        <line
+                           transform="translate(171,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line161" />
+                        <line
+                           transform="translate(225,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line162" />
+                        <line
+                           transform="translate(279,-300)"
+                           x2="0"
+                           y2="300"
+                           stroke="#ddd"
+                           stroke-width="0.2"
+                           opacity="1"
+                           id="line163" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path164" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g175">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g174">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path166" />
+                    <g
+                       id="g173">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g172">
+                        <line
+                           transform="translate(0,300)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line166" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line167" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line168" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line169" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line170" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line171" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="300"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="0.4"
+                           stroke-dasharray="3"
+                           opacity="1"
+                           id="line172" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path173" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'Circulation' for a linear scale with values from 11,400,000 to 14,200,000"
+                   id="g190">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g189">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path175" />
+                    <g
+                       id="g188">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g180">
+                        <line
+                           transform="translate(11,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line175" />
+                        <line
+                           transform="translate(64,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line176" />
+                        <line
+                           transform="translate(118,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line177" />
+                        <line
+                           transform="translate(171,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line178" />
+                        <line
+                           transform="translate(225,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line179" />
+                        <line
+                           transform="translate(279,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line180" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g185">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(10.714285714285714,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text180"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan263">11.5</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(64.28571428571428,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text181"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan264">12</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(117.85714285714286,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text182"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan265">12.5</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(171.42857142857142,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text183"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan266">13</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(225,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text184"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan267">13.5</tspan></text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(278.57142857142856,15)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text185">14,000,000</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g186">
+                        <line
+                           transform="translate(0,0)"
+                           x2="300"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line185" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g187">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(150,30)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000"
+                           opacity="1"
+                           id="text186"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan262">Circulation (millions)</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path188" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Budget (billions of $)' for a linear scale with values from 0.07 to 0.13"
+                   id="g207">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g206">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path190" />
+                    <g
+                       id="g205">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g196">
+                        <line
+                           transform="translate(0,300)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line190" />
+                        <line
+                           transform="translate(0,250)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line191" />
+                        <line
+                           transform="translate(0,200)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line192" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line193" />
+                        <line
+                           transform="translate(0,100)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line194" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line195" />
+                        <line
+                           transform="translate(0,0)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line196" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g202">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,303)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text196">0.07</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,253)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text197">0.08</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,203.00000000000003)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text198">0.09</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,153)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text199">0.10</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,103.00000000000001)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text200">0.11</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,53.00000000000006)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text201">0.12</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000"
+                           opacity="1"
+                           id="text202">0.13</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g203">
+                        <line
+                           transform="translate(0,300)"
+                           x2="0"
+                           y2="-300"
+                           stroke="#888"
+                           stroke-width="0.5"
+                           opacity="1"
+                           id="line202" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g204">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="normal"
+                           fill="#000000"
+                           opacity="1"
+                           id="text203"
+                           x="-150"
+                           y="-42.462891">Budget (billions of $)</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path205" />
+                  </g>
+                </g>
+                <g
+                   class="mark-symbol role-mark concat_2_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g211">
+                  <path
+                     aria-label="Circulation: 11484491; Budget (billions of $): 0.071420108; Year: 2019"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(9.052607142857143,292.8994600000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#3BD4CF"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path207" />
+                  <path
+                     aria-label="Circulation: 13770925; Budget (billions of $): 0.084521915; Year: 2020"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(254.02767857142857,227.390425)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#EA2B8B"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path208" />
+                  <path
+                     aria-label="Circulation: 12489095; Budget (billions of $): 0.110971841; Year: 2021"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(116.68875,95.14079500000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#F8C22C"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path209" />
+                  <path
+                     aria-label="Circulation: 12699254; Budget (billions of $): 0.129622327; Year: 2022"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(139.2057857142857,1.8883650000001029)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#108D50"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path210" />
+                  <path
+                     aria-label="Circulation: 14055197; Budget (billions of $): 0.113371472; Year: 2023"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(284.48539285714287,83.14264000000001)"
+                     d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0"
+                     fill="#00058F"
+                     fill-opacity="0.8"
+                     stroke-width="2"
+                     id="path211" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g215">
+                  <g
+                     transform="translate(150,-22)"
+                     id="g214">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path212" />
+                    <g
+                       id="g213">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Chicago Public Circulation vs Budget 2019-2023'"
+                         pointer-events="none"
+                         id="g212">
+                        <text
+                           text-anchor="middle"
+                           font-family="sans-serif"
+                           font-size="13px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text212"
+                           x="10"
+                           y="11"
+                           style="-inkscape-font-specification:'sans-serif, Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000"><tspan
+                             sodipodi:role="line"
+                             id="tspan254">CPL Circulation vs Budget 2019-2023</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path213" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path216" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'Year' for fill color with 5 values: 2019, 2020, 2021, 2022, 2023"
+             id="g248">
+            <g
+               transform="translate(1089,0)"
+               id="g247">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m -6.9,0 h 57 c 2.759575,0 5,2.2404249 5,5 v 117 c 0,2.75958 -2.240425,5 -5,5 h -57 c -2.7595751,0 -5,-2.24042 -5,-5 V 5 c 0,-2.7595751 2.2404249,-5 5,-5 z"
+                 pointer-events="none"
+                 fill="#fff5db"
+                 id="path218" />
+              <g
+                 id="g246">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g244">
+                  <g
+                     transform="translate(10,29)"
+                     id="g243">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path219" />
+                    <g
+                       id="g242">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g241">
+                        <g
+                           transform="translate(0,0)"
+                           id="g224">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h46.6953125v15.071067811865476h-46.6953125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path220" />
+                          <g
+                             id="g223">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g221">
+                              <path
+                                 d="M -10.971,0.929 H 3.171 v 14.142 h -14.142 z"
+                                 fill="#3bd4cf"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path221" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g222">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text221"
+                                 x="8.0999937"
+                                 y="12">2019</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path223" />
+                        </g>
+                        <g
+                           transform="translate(0,18)"
+                           id="g228">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h46.6953125v15.071067811865476h-46.6953125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path224" />
+                          <g
+                             id="g227">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g225">
+                              <path
+                                 d="M -10.971,0.929 H 3.171 v 14.142 h -14.142 z"
+                                 fill="#ea2b8b"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path225" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g226">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text225"
+                                 x="8.0999937"
+                                 y="12">2020</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path227" />
+                        </g>
+                        <g
+                           transform="translate(0,36)"
+                           id="g232">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h46.6953125v15.071067811865476h-46.6953125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path228" />
+                          <g
+                             id="g231">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g229">
+                              <path
+                                 d="M -10.971,0.929 H 3.171 v 14.142 h -14.142 z"
+                                 fill="#f8c22c"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path229" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g230">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text229"
+                                 x="8.0999937"
+                                 y="12">2021</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path231" />
+                        </g>
+                        <g
+                           transform="translate(0,54)"
+                           id="g236">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h46.6953125v15.071067811865476h-46.6953125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path232" />
+                          <g
+                             id="g235">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g233">
+                              <path
+                                 d="M -10.971,0.929 H 3.171 v 14.142 h -14.142 z"
+                                 fill="#108d50"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path233" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g234">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text233"
+                                 x="8.0999937"
+                                 y="12">2022</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path235" />
+                        </g>
+                        <g
+                           transform="translate(0,72)"
+                           id="g240">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M0,0h46.6953125v15.071067811865476h-46.6953125Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path236" />
+                          <g
+                             id="g239">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g237">
+                              <path
+                                 d="M -10.971,0.929 H 3.171 v 14.142 h -14.142 z"
+                                 fill="#00058f"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path237" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g238">
+                              <text
+                                 text-anchor="start"
+                                 font-family="sans-serif"
+                                 font-size="12px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text237"
+                                 x="8.0999937"
+                                 y="12">2023</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path239" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path242" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g245">
+                  <text
+                     text-anchor="start"
+                     font-family="sans-serif"
+                     font-size="14px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text244"
+                     x="-1.9000037"
+                     y="21">Year</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path246" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path249" />
+      </g>
+    </g>
+  </g>
+</svg>
